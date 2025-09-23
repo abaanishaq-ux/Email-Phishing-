@@ -1,0 +1,19 @@
+From: support@paypals-security.com
+To: you@example.com
+Subject: Urgent: Your Paypal Account Will Be Suspended - Verify Now
+
+Date: Tue, 23 Sep 2025 08:35:12 +0000
+Message-ID: <12345.abc@mail-server.com>
+
+Hello,
+
+We detected unusual activity on your PayPal account. To prevent suspension, you must verify your identity immediately.
+
+Click here to verify: http://paypal-secure.verify-account[.]com/login?uid=AB123
+
+If you fail to verify within 24 hours, your account will be permanently suspended.
+
+Thank you for your prompt attention,
+PayPal Security Team
+
+Attachment: Account_Verify.exe
